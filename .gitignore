@@ -1,0 +1,8 @@
+.vs
+**/node_modules
+**/obj
+**/bin
+**/*.js.map
+**/*.js
+**/*.csproj.user
+/src/StsLogs.txt
